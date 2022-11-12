@@ -1,0 +1,12 @@
+table {
+    border: 2px solid purple;
+    display: inline-block;
+    margin: 50px;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 2px solid orangered;
+    padding: 50px;
+    border-collapse: collapse;
+}
